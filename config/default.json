@@ -1,0 +1,6 @@
+{
+  "port": 5000,
+  "jwtSecret": "vladilen youtube mern",
+  "mongoUri": "mongodb+srv://shyna:12345han@cluster-mern-7rrch.azure.mongodb.net/test?retryWrites=true&w=majority",
+  "baseUrl": "http://localhost:5000"
+}
